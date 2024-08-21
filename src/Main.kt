@@ -4,6 +4,7 @@ fun main() {
     println(s.res())
     s.div(8.5,15.6)
     println(s.raiz(8.5))
+
     val s1 = Operaciones(9.8,3.2)
     val s2 = Operaciones(11.2,6.6)
     val s3 = Operaciones(6.3,7.8)
